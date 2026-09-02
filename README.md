@@ -24,7 +24,11 @@ I'm a final-year **BS-MS Physics student at IIT Dharwad** interested in **Linux 
 
 I completed an **LFX'25 Linux Kernel mentorship** and have contributed **10+ **[**patches**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=ankitkhushwaha.linux%40gmail.com)** upstream to the Linux kernel** across kernel selftests subsystem including networking, memory management, TLS, MPTCP.
 
-I'm currently focusing on Linux device driver development and looking for opportunities in **Kernel engineering**.
+I'm currently focusing on Linux device driver development and seeking opportunities in Linux kernel and systems engineering.
+
+Ask me about:
+
+**Linux Kernel · Operating Systems · Device Drivers · Embedded Linux · Systems Programming**
 
 ## Long-Term Goal
 
@@ -36,11 +40,7 @@ const char *future_goal(void)
            "and specialize in Linux kernel, "
            "device drivers, and low-level systems.";
 }
-```
 
-I'm particularly interested in:
-
-**Linux Kernel · Operating Systems · Device Drivers · Embedded Linux · Systems Programming**
 
 ## Find Me
 
