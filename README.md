@@ -1,92 +1,53 @@
-```
+# Hi, I'm Ankit Khushwaha
+
+```c
 /* ~/ankit_khushwaha.c */
 
 #include <stdio.h>
 
 struct developer {
-  const char *name;
-  const char *role;
-  const char *university;
-  const char *degree;
+    const char *name;
+    const char *focus;
+    const char *university;
+    const char *degree;
 };
 
 static struct developer ankit = {
     .name = "Ankit Khushwaha",
-    .role = "Student",
+    .focus = "Linux Kernel / Systems Programming",
     .university = "IIT Dharwad",
     .degree = "BS-MS Physics",
 };
+```
 
-static const char *skills[] = {
-    "C", "Linux Kernel", "Device Drivers", "Git", "QEMU",
-};
+I'm a final-year **BS-MS Physics student at IIT Dharwad** interested in **Linux kernel development, device drivers, embedded Linux, operating systems, and low-level systems programming**.
 
-static const char *interests[] = {
-    "Kernel Development",
-    "Operating Systems",
-    "Systems Programming",
-    "Computer Security",
-};
+I completed an **LFX'25 Linux Kernel mentorship** and have contributed **10+ **[**patches**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=ankitkhushwaha.linux%40gmail.com)** upstream to the Linux kernel** across kernel selftests subsystem including networking, memory management, TLS, MPTCP.
 
-static const char *links[] = {
-    "github.com/ankitkhushwaha",
-    "linkedin.com/in/ankitkhushwaha",
-    "ankitkdev.com",
-    "[ankitkhushwaha.dev@gmail.com](mailto:ankitkhushwaha.dev@gmail.com)",
-};
+I'm currently focusing on Linux device driver development and looking for opportunities in **Kernel engineering**.
 
-int workflow(void) {
-    printf("[+] Reading kernel source...\n"
-            "[+] Writing device drivers...\n"
-            "[+] Debugging kernel crashes...\n"
-            "[+] Studying kernel security...\n"
-            "[+] Sending patches upstream...\n\n");
+## Long-Term Goal
 
-    return 0;
-}
-
-const char *currently_learning(void) {
-    return "Linux kernel internals, device drivers, "
-            "and low-level systems programming";
-}
-
-const char *future_goal(void) {
+```c
+const char *future_goal(void)
+{
     return "Build secure and reliable systems, "
-            "contribute to the Linux kernel, and "
-            "specialize in device drivers and security";
-}
-
-static void print_profile(void) {
-    size_t i;
-
-    printf("Name       : %s\n", ankit.name);
-    printf("Role       : %s\n", ankit.role);
-    printf("University : %s\n", ankit.university);
-    printf("Degree     : %s\n", ankit.degree);
-
-    printf("\nSkills:\n");
-    for (i = 0; i < sizeof(skills) / sizeof(skills[0]); i++)
-        printf("  - %s\n", skills[i]);
-
-    printf("\nInterests:\n");
-    for (i = 0; i < sizeof(interests) / sizeof(interests[0]); i++)
-        printf("  - %s\n", interests[i]);
-
-    printf("\nCurrently Learning:\n");
-    printf("  %s\n", currently_learning());
-
-    printf("\nFuture Goal:\n");
-    printf("  %s\n", future_goal());
-
-    printf("\nLinks:\n");
-    for (i = 0; i < sizeof(links) / sizeof(links[0]); i++)
-        printf("  - %s\n", links[i]);
-}
-
-int main(void) {
-    workflow();
-    print_profile();
-
-    return 0;
+           "contribute to open-source infrastructure, "
+           "and specialize in Linux kernel, "
+           "device drivers, and low-level systems.";
 }
 ```
+
+I'm particularly interested in:
+
+**Linux Kernel · Operating Systems · Device Drivers · Embedded Linux · Systems Programming**
+
+---
+
+## Find Me
+
+* Resume:   [ankit](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/ankitkhushwaha/resume.tex/main/build/resume.pdf)
+* GitHub:   [github.com/ankitkhushwaha](https://github.com/ankitkhushwaha)
+* LinkedIn: [linkedin.com/in/ankitkhushwaha](https://linkedin.com/in/ankitkhushwaha)
+* Blog:     [ankitkdev.com](https://ankitkdev.com/)
+* Email:    [ankitkhushwaha.dev@gmail.com](mailto:ankitkhushwaha.dev@gmail.com)
