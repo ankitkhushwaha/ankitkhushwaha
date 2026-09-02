@@ -40,7 +40,7 @@ const char *future_goal(void)
            "and specialize in Linux kernel, "
            "device drivers, and low-level systems.";
 }
-
+```
 
 ## Find Me
 
