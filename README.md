@@ -42,8 +42,6 @@ I'm particularly interested in:
 
 **Linux Kernel · Operating Systems · Device Drivers · Embedded Linux · Systems Programming**
 
----
-
 ## Find Me
 
 * Resume:   [ankit](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/ankitkhushwaha/resume.tex/main/build/resume.pdf)
