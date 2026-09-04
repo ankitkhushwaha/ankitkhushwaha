@@ -22,7 +22,7 @@ static struct developer ankit = {
 
 I'm a final-year **BS-MS Physics student at IIT Dharwad** interested in **Linux kernel development, device drivers, embedded Linux, operating systems, and low-level systems programming**.
 
-I completed an **LFX'25 Linux Kernel mentorship** and have contributed **10+ **[**patches**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=ankitkhushwaha.linux%40gmail.com)** upstream to the Linux kernel** across kernel selftests subsystem including networking, memory management, TLS, MPTCP.
+I completed an **LFX'25 Linux Kernel mentorship** and have **[**commits**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=ankitkhushwaha.linux%40gmail.com)** in upstream kernel** across kernel selftests subsystem including networking, memory management, TLS, MPTCP.
 
 I'm currently focusing on Linux device driver development and seeking opportunities in Linux kernel and systems engineering.
 
@@ -44,7 +44,7 @@ const char *future_goal(void)
 
 ## Find Me
 
-* Resume:   [ankit](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/ankitkhushwaha/resume.tex/main/build/resume.pdf)
+* Resume:   [view resume](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/ankitkhushwaha/resume.tex/main/build/resume.pdf)
 * GitHub:   [github.com/ankitkhushwaha](https://github.com/ankitkhushwaha)
 * LinkedIn: [linkedin.com/in/ankitkhushwaha](https://linkedin.com/in/ankitkhushwaha)
 * Blog:     [ankitkdev.com](https://ankitkdev.com/)
